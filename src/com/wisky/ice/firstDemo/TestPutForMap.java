@@ -17,6 +17,7 @@ public class TestPutForMap {
         map.put("7", "周日");
         System.out.println(map);
 
+        // 我就想看看效果
         String result = map.get("1");
         System.out.println(result);
 
